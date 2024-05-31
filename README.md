@@ -12,5 +12,8 @@ Phi-2, a small Language Model (SLM) developed by Microsoft, with 2.7 billion par
 ## Quantization
 QLORA -> Quantizead Low rank adoptation
 
-## Fine tuning Method
+## Fine-tuning Method
 PEFT -> Parameter Efficient Fine Tuning
+
+## RESULTS
+![image](https://github.com/newacronym/Finetuning-LLM-using-QLoRA/assets/51745787/411c6dce-f9f9-4762-ada4-e5db7d873640)
