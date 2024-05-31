@@ -7,7 +7,7 @@ DialogSum from HuggingFace. It is an extensive dialogue summarization dataset, f
 <https://huggingface.co/datasets/neil-code/dialogsum-test>
 
 ## PreTrained Model
-Phi-2, a small Language Model (SLM) with 2.7 billion parameters.
+Phi-2, a small Language Model (SLM) developed by Microsoft, with 2.7 billion parameters.
 
 ## Quantization
 QLORA -> Quantizead Low rank adoptation
