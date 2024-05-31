@@ -15,5 +15,5 @@ QLORA -> Quantizead Low rank adoptation
 ## Fine-tuning Method
 PEFT -> Parameter Efficient Fine Tuning
 
-## RESULTS
+## Results Obtained using ROGUE Metrics
 ![image](https://github.com/newacronym/Finetuning-LLM-using-QLoRA/assets/51745787/411c6dce-f9f9-4762-ada4-e5db7d873640)
