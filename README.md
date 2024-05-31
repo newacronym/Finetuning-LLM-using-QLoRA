@@ -10,7 +10,7 @@ DialogSum from HuggingFace. It is an extensive dialogue summarization dataset, f
 Phi-2, a small Language Model (SLM) developed by Microsoft, with 2.7 billion parameters.
 
 ## Quantization
-QLORA -> Quantizead Low rank adoptation
+QLORA -> Quantizead Low-rank adaptation
 
 ## Fine-tuning Method
 PEFT -> Parameter Efficient Fine Tuning
